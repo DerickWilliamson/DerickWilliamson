@@ -8,7 +8,7 @@ body {
     margin: auto;
     border: solid 2px #000;
 
-    background-image: url ('img/Derick Pic.jpg');
+    background-image: url ('./Derick Pic.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
