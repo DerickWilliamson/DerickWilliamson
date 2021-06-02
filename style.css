@@ -9,7 +9,7 @@ body {
     border: solid 2px #000;
 
     background-image: url ('./Derick Pic.jpg');
-    background-size: cover;
+    background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
 
