@@ -316,6 +316,9 @@ header {
 
 .aboutMe {
     max-width: 1000px;
+    background-color: var(--clr-dark);
+    color: var(--clr-light);
+    opacity: 0.75;
     margin: 0 auto;
 }
 
